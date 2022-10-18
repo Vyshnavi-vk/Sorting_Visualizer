@@ -15,4 +15,4 @@ This application supports the following sorting algorithms:
 2. **Merge Sort**.
 3. **Selection Sort**.
 
-Take a look at live version: https://Vyshnavi-vk.github.io/Sorting_Visualizer/
+Take a look at live version: [https://Vyshnavi-vk.github.io/Sorting_Visualizer/](https://vermillion-mooncake-06cc9a.netlify.app)
