@@ -14,3 +14,5 @@ This application supports the following sorting algorithms:
 1. **Bubble Sort**.
 2. **Merge Sort**.
 3. **Selection Sort**.
+
+Take a look at live version: https://Vyshnavi-vk.github.io/Sorting_Visualizer/
